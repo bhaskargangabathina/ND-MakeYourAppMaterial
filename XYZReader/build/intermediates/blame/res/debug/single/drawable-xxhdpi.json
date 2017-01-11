@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back_black_36dp.png",
+        "source": "/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back_black_36dp.png"
+    },
+    {
+        "merged": "/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    }
+]

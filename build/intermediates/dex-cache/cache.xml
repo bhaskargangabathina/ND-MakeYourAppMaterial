@@ -3,66 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_88ad74440ec7865aaf3ce5d20aa2d1245ad6a771.jar" />
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_9c7b17161e5e1daf0d1cb2fb0b536685d6722abb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4329f9c3bd042d6cb57f2a42b9906cceec0183bf.jar" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2964049eaae9ef10f4fbcaef4628c5ac0c2ddf7c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_6632f8b3ed3f6b15e5f6af7ca0830e351272c98b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_4edeaf1d41cfff5c26de7d8e3f447821ae38f1e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3d5e19f72ea7d608d6aafb51abeae97a8aca22f8.jar" />
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_25b39b0a7dd11d80aea998b89f59a76938388c3a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_03fbacb913b11d0b27101e3568fa66cfaf645208.jar" />
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_36076af5084124d54605047c6c451f78577b2c10.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7ff571471a2634cd807098cf53d7fbb6e26a0fe8.jar" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_47d3f13c5921e9299e6eab365ca84a3a61d616df.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,43 +53,25 @@
         optimize="true"
         revision="22.0.1"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8ad1c39f8489b251563160bbb69929eb60f0333e.jar" />
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8ad1c39f8489b251563160bbb69929eb60f0333e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ec6f597f37801dd5a675b885051e34d1ea6ff613.jar" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_91b38e19aebaf756225b8a7a261242fb35ee5264.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.2.1_b6d8a599800e1ca286376b10f688b489770f322d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_da6c005eb767da06b8b73f5b3d6996de6d85a7b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.2.1_f67a7aeba1c7f01f360f50de1a9e89b49af92c02.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_eec5b4b715032cb2fa420f2cf570ae5148cd526a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,88 +80,106 @@
         optimize="true"
         revision="22.0.1"
         sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0_0d2f8e96bb888f4326fa9efd1fe08fdc5225dfd6.jar" />
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0_0d2f8e96bb888f4326fa9efd1fe08fdc5225dfd6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1f6b94d9ef409a7efcd39fcc89c0ec304caa447b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bd13a6402f6fdc8381cbf1047d28d94859d54ed1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_da107c6c83515be604c7b5896e65c409d8c67ce4.jar" />
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_4e306b2989e7912b47b12057168384ef6dccf3bc.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_71d401bdfb6d552aa6dbeb89115ac31147c2e9a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_86be9d7f5a330e307dff385d6a3562a3764eb337.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_05f0c0c9117bca8d7b394d9475f6911df0165148.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_dfc873191d9d50cc3bc6157da08397ee0b382328.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/libs/volley.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/libs/volley.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/volley_4b5bfe3afa1f209b946dc7a54246386450dbe3dd.jar" />
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/volley_3edd70766e61e784eb1b7e93c46a8f59d7c5fc23.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.2.1_ee0ed3d67b2f0c15090f65b149dcb3862b80de5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_c71fec131b6a41ab7b3d19598288d2bf8d4f9557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_f218863e7811900945c35aeb87ac9faaa3df97a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_640b49daad7ed01e3621373cb924efb66b820746.jar" />
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_ed2d785b5db39902a29ad1efe80ffa76a3d351fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_14d21fe43687d939a1ef3e4f1b91e788882506b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_e463ff263e957cac07bf194f3b753c7876f02f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_68f1f8295ec6920d62f479da966f5a5ac7d4ab49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.2.1_5a9d70bf67ef534106021b07916ae29a812490f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_1577c7a8915e11d764e5ae4dcc102c69558830c9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,16 +188,34 @@
         optimize="true"
         revision="22.0.1"
         sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/glide-3.6.0_fa8a64c174023ae3ccff90b342467000dc025298.jar" />
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/glide-3.6.0_fa8a64c174023ae3ccff90b342467000dc025298.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/techjini/Desktop/nanodegree/MakeYourAppMaterial-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f38d3c72c9c4e44201046d4eb09e5e30ab61bd7a.jar" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_459b6367efc2cfa331b97cbe6e4de2e25ba7e3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b8a43c9927beeb2f533ab691e9fc45c2091ac0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d018d4924a76af3fb86837201ba3265a9ddb2055.jar" />
     </item>
 
 </items>

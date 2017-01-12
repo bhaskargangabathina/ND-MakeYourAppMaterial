@@ -1744,9 +1744,9 @@
                     "startLine": 253,
                     "startColumn": 4,
                     "startOffset": 18450,
-                    "endLine": 257,
+                    "endLine": 258,
                     "endColumn": 12,
-                    "endOffset": 18744
+                    "endOffset": 18803
                 },
                 "from": {
                     "file": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/src/main/res/values-v21/styles.xml",
@@ -1754,20 +1754,20 @@
                         "startLine": 18,
                         "startColumn": 4,
                         "startOffset": 705,
-                        "endLine": 22,
+                        "endLine": 23,
                         "endColumn": 12,
-                        "endOffset": 999
+                        "endOffset": 1058
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 18749,
-                    "endLine": 260,
+                    "startOffset": 18808,
+                    "endLine": 261,
                     "endColumn": 12,
-                    "endOffset": 18938
+                    "endOffset": 18997
                 },
                 "from": {
                     "file": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/values-v21/values-v21.xml",

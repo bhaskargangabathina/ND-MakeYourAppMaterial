@@ -253,6 +253,7 @@
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
     <style name="Theme.DesignDemo" parent="Base.Theme.XYZ">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:fitsSystemWindows">true</item>
         <item name="android:statusBarColor">@color/colorPrimaryDark</item>
         <item name="android:windowBackground">@color/colorPrimaryLight</item>
     </style>

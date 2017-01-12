@@ -148,12 +148,12 @@
         "source": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_list.xml",
         "source": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/src/main/res/layout/activity_article_list.xml"
+    },
+    {
+        "merged": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/techjini/Desktop/nanodegree/ND-MakeYourAppMaterial/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",

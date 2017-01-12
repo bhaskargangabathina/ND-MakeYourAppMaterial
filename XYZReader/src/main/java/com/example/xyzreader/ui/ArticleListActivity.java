@@ -56,6 +56,13 @@ public class ArticleListActivity extends AppCompatActivity implements
         if (savedInstanceState == null) {
             refresh();
         }
+
+        mSwipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+             refresh();
+            }
+        });
     }
 
     private void refresh() {

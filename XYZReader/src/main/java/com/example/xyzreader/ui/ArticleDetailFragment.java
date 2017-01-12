@@ -102,12 +102,6 @@ public class ArticleDetailFragment extends Fragment implements
     });
 
     mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
-/*
-    FrameLayout mylayout = (FrameLayout) mRootView.findViewById(R.id.draw_insets_frame_layout);
-    ViewGroup.MarginLayoutParams params = (ViewGroup.MarginLayoutParams) mylayout.getLayoutParams();
-    params.setMargins(0, getStatusBarHeight(), 0, 0);
-    mylayout.setLayoutParams(params);*/
-
     mRootView.findViewById(R.id.share_fab).setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View view) {
@@ -157,9 +151,10 @@ public class ArticleDetailFragment extends Fragment implements
               + mCursor.getString(ArticleLoader.Query.AUTHOR)
               + "</font>"));
       bodyView.setText(Html.fromHtml(mCursor.getString(ArticleLoader.Query.BODY)));
-      Glide.with(getActivity())
+
+     /* Glide.with(getActivity())
           .load(mCursor.getString(ArticleLoader.Query.PHOTO_URL))
-          .into(mPhotoView);
+          .into(mPhotoView);*/
     } else {
       mRootView.setVisibility(View.GONE);
       titleView.setText("N/A");

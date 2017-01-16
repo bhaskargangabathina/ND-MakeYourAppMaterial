@@ -152,9 +152,9 @@ public class ArticleDetailFragment extends Fragment implements
               + "</font>"));
       bodyView.setText(Html.fromHtml(mCursor.getString(ArticleLoader.Query.BODY)));
 
-     /* Glide.with(getActivity())
+     Glide.with(getActivity())
           .load(mCursor.getString(ArticleLoader.Query.PHOTO_URL))
-          .into(mPhotoView);*/
+          .into(mPhotoView);
     } else {
       mRootView.setVisibility(View.GONE);
       titleView.setText("N/A");
